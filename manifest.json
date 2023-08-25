@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Kawaii theme for alerts.in.ua :3",
+  "author": "neon@nekowos.moe",
+  "version": "1.0",
+  "description": "for silly people only :P",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://alerts.in.ua/*"
+      ],
+      "js": [
+        "injector.js"
+      ]
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "*://alerts.in.ua/*"
+      ],
+      "resources": [
+        "kawaii-light.css"
+      ]
+    }
+  ]
+}
