@@ -20,3 +20,10 @@
 *.iml
 out
 gen
+
+### web-ext
+web-ext-artifacts
+
+### Other
+*.pem
+*.ctx
