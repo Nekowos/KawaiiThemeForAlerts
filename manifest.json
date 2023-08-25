@@ -22,7 +22,8 @@
         "*://alerts.in.ua/*"
       ],
       "resources": [
-        "kawaii-theme.css"
+        "kawaii-theme.css",
+        "images/anime-girl-1.png"
       ]
     }
   ]

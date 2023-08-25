@@ -93,3 +93,15 @@
     --color-4: rgba(255, 221, 142, 0.9);
     --color-3: rgba(230, 173, 213, 0.9);
 }
+
+.animegirl {
+    display: none;
+    position: absolute;
+    right: 10px;
+    bottom: 60px;
+    width: 20em;
+}
+
+.kawaii .animegirl {
+    display: block;
+}
