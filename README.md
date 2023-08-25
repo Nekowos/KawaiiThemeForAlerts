@@ -1,5 +1,8 @@
 # Kawaii theme for [alerts.in.ua](https://alerts.in.ua/)
 
+![GitHub commits since latest release (by SemVer including pre-releases)](https://img.shields.io/github/commits-since/Nekowos/KawaiiThemeForAlerts/latest?style=for-the-badge&color=%23e6add5)
+
+
 :ukraine: Made in Ukraine! Зроблено в Україні!\
 :heart: Support me on [Patreon](https://patreon.com/SuperNeon4ik)\
 :heartpulse: [Donate](https://saveukraine.org/donate) to Ukraine
