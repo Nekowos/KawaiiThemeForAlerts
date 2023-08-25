@@ -41,7 +41,7 @@
     --active-region-darker-color: #b3519a;
     --active-region-border-color: #271122;
     --default-region-color: rgba(49, 20, 48, 0.9);
-    /*--default-region-border-color: rgba(255,255,255,0.2);*/
+    --default-region-border-color: rgba(255, 255, 255, 0.2);
     /*--fresh-region-color: rgba(25,28,56,0.9);*/
     /*--fresh-region-border-color: var(--fresh-region-color);*/
     /*--artillery-shelling-zone-color: #ff7b00;*/
@@ -88,6 +88,7 @@
     --background: #fcd9f9;
     --text-color: rgba(38, 3, 35, 0.7);
     --inverted-text-color: rgba(255, 255, 255, 0.7);
+    --default-region-border-color: rgba(255, 255, 255, 0.4);
     --color-1: rgba(213, 255, 126, 0.9);
     --color-2: rgba(133, 174, 255, 0.9);
     --color-4: rgba(255, 221, 142, 0.9);
