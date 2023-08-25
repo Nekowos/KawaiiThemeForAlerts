@@ -26,4 +26,4 @@ web-ext-artifacts
 
 ### Other
 *.pem
-*.ctx
+*.crx
