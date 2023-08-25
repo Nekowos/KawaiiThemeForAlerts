@@ -10,6 +10,8 @@ Download the extension from the [Releases](https://github.com/Nekowos/KawaiiThem
 ## Gallery
 ### Light theme
 ![Light theme (country-wide alert)](assets/light1.png)
+![Light theme (partial alert)](assets/light2.png)
 
 ### Dark theme
 ![Dark theme (country-wide alert)](assets/dark1.png)
+![Dark theme (partial alert)](assets/dark2.png)
