@@ -12,7 +12,7 @@
     /*--link-hover-color: var(--text-color);*/
     /*--subheader-link-color: rgba(255,255,255,0.5);*/
     --color-error: #e6add5;
-    --alert-list-color: #b3519a;
+    --alert-list-color: #e6add5;
     /*--label-color: black;*/
     /*--header-background: rgba(49,50,53,0.5);*/
     /*--tab-container-background-desktop: var(--header-background);*/
@@ -20,7 +20,7 @@
     /*--tab-container-background: var(--tab-container-background-desktop);*/
     /*--table-header-background: rgba(255,255,255,0.08);*/
     /*--table-row-background: rgba(255,255,255,0.16);*/
-    --alert-zone-color: #b3519a;
+    --alert-zone-color: #e6add5;
     /*--fresh-zone-color: #76552b;*/
     /*--no-alert-zone-color: #1a2636;*/
     /*--recent-alert-zone-color: #1a1c36;*/
