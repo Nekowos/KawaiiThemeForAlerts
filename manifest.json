@@ -22,7 +22,7 @@
         "*://alerts.in.ua/*"
       ],
       "resources": [
-        "kawaii-light.css"
+        "kawaii-theme.css"
       ]
     }
   ]
