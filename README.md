@@ -1,6 +1,6 @@
 # Kawaii theme for [alerts.in.ua](https://alerts.in.ua/)
 
-:flag_ua: Made in Ukraine! Зроблено в Україні!\
+:ukraine: Made in Ukraine! Зроблено в Україні!\
 :heart: Support me on [Patreon](https://patreon.com/SuperNeon4ik)\
 :heartpulse: [Donate](https://saveukraine.org/donate) to Ukraine
 
